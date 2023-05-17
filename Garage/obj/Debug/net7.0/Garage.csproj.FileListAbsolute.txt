@@ -1,0 +1,15 @@
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.csproj.AssemblyReference.cache
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.AssemblyInfoInputs.cache
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.AssemblyInfo.cs
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.csproj.CoreCompileInputs.cache
+/Users/caglar/Projects/DesignPattern/Garage/bin/Debug/net7.0/Garage
+/Users/caglar/Projects/DesignPattern/Garage/bin/Debug/net7.0/Garage.deps.json
+/Users/caglar/Projects/DesignPattern/Garage/bin/Debug/net7.0/Garage.runtimeconfig.json
+/Users/caglar/Projects/DesignPattern/Garage/bin/Debug/net7.0/Garage.dll
+/Users/caglar/Projects/DesignPattern/Garage/bin/Debug/net7.0/Garage.pdb
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.dll
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/refint/Garage.dll
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.pdb
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/Garage.genruntimeconfig.cache
+/Users/caglar/Projects/DesignPattern/Garage/obj/Debug/net7.0/ref/Garage.dll

@@ -1,0 +1,15 @@
+/Users/caglar/Projects/DesignPattern/Soldaten/bin/Debug/net7.0/Soldaten
+/Users/caglar/Projects/DesignPattern/Soldaten/bin/Debug/net7.0/Soldaten.deps.json
+/Users/caglar/Projects/DesignPattern/Soldaten/bin/Debug/net7.0/Soldaten.runtimeconfig.json
+/Users/caglar/Projects/DesignPattern/Soldaten/bin/Debug/net7.0/Soldaten.dll
+/Users/caglar/Projects/DesignPattern/Soldaten/bin/Debug/net7.0/Soldaten.pdb
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.csproj.AssemblyReference.cache
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.AssemblyInfoInputs.cache
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.AssemblyInfo.cs
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.csproj.CoreCompileInputs.cache
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.dll
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/refint/Soldaten.dll
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.pdb
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/Soldaten.genruntimeconfig.cache
+/Users/caglar/Projects/DesignPattern/Soldaten/obj/Debug/net7.0/ref/Soldaten.dll

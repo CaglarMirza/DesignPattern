@@ -1,0 +1,15 @@
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.csproj.AssemblyReference.cache
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.AssemblyInfoInputs.cache
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.AssemblyInfo.cs
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.csproj.CoreCompileInputs.cache
+/Users/caglar/Projects/DesignPattern/Leger/bin/Debug/net7.0/Leger
+/Users/caglar/Projects/DesignPattern/Leger/bin/Debug/net7.0/Leger.deps.json
+/Users/caglar/Projects/DesignPattern/Leger/bin/Debug/net7.0/Leger.runtimeconfig.json
+/Users/caglar/Projects/DesignPattern/Leger/bin/Debug/net7.0/Leger.dll
+/Users/caglar/Projects/DesignPattern/Leger/bin/Debug/net7.0/Leger.pdb
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.dll
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/refint/Leger.dll
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.pdb
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/Leger.genruntimeconfig.cache
+/Users/caglar/Projects/DesignPattern/Leger/obj/Debug/net7.0/ref/Leger.dll

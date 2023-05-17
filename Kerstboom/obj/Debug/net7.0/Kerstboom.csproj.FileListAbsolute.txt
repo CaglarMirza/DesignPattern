@@ -1,0 +1,15 @@
+/Users/caglar/Projects/DesignPattern/Kerstboom/bin/Debug/net7.0/Kerstboom
+/Users/caglar/Projects/DesignPattern/Kerstboom/bin/Debug/net7.0/Kerstboom.deps.json
+/Users/caglar/Projects/DesignPattern/Kerstboom/bin/Debug/net7.0/Kerstboom.runtimeconfig.json
+/Users/caglar/Projects/DesignPattern/Kerstboom/bin/Debug/net7.0/Kerstboom.dll
+/Users/caglar/Projects/DesignPattern/Kerstboom/bin/Debug/net7.0/Kerstboom.pdb
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.csproj.AssemblyReference.cache
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.AssemblyInfoInputs.cache
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.AssemblyInfo.cs
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.csproj.CoreCompileInputs.cache
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.dll
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/refint/Kerstboom.dll
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.pdb
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/Kerstboom.genruntimeconfig.cache
+/Users/caglar/Projects/DesignPattern/Kerstboom/obj/Debug/net7.0/ref/Kerstboom.dll
