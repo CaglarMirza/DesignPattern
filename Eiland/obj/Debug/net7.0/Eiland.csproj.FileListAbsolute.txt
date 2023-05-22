@@ -1,0 +1,15 @@
+/Users/caglar/Projects/DesignPattern/Eiland/bin/Debug/net7.0/Eiland
+/Users/caglar/Projects/DesignPattern/Eiland/bin/Debug/net7.0/Eiland.deps.json
+/Users/caglar/Projects/DesignPattern/Eiland/bin/Debug/net7.0/Eiland.runtimeconfig.json
+/Users/caglar/Projects/DesignPattern/Eiland/bin/Debug/net7.0/Eiland.dll
+/Users/caglar/Projects/DesignPattern/Eiland/bin/Debug/net7.0/Eiland.pdb
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.csproj.AssemblyReference.cache
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.AssemblyInfoInputs.cache
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.AssemblyInfo.cs
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.csproj.CoreCompileInputs.cache
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.dll
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/refint/Eiland.dll
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.pdb
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/Eiland.genruntimeconfig.cache
+/Users/caglar/Projects/DesignPattern/Eiland/obj/Debug/net7.0/ref/Eiland.dll

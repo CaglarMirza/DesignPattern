@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/caglar/Projects/DesignPattern/Soldaten/Soldaten.csproj",
-      "projectName": "Soldaten",
-      "projectPath": "/Users/caglar/Projects/DesignPattern/Soldaten/Soldaten.csproj",
+      "projectUniqueName": "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj",
+      "projectName": "Eiland",
+      "projectPath": "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj",
       "packagesPath": "/Users/caglar/.nuget/packages/",
-      "outputPath": "/Users/caglar/Projects/DesignPattern/Soldaten/obj/",
+      "outputPath": "/Users/caglar/Projects/DesignPattern/Eiland/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/caglar/.nuget/NuGet/NuGet.Config"

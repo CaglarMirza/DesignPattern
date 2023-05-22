@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/caglar/Projects/DesignPattern/Garage/Garage.csproj": {}
+    "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj": {}
   },
   "projects": {
-    "/Users/caglar/Projects/DesignPattern/Garage/Garage.csproj": {
+    "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/caglar/Projects/DesignPattern/Garage/Garage.csproj",
-        "projectName": "Garage",
-        "projectPath": "/Users/caglar/Projects/DesignPattern/Garage/Garage.csproj",
+        "projectUniqueName": "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj",
+        "projectName": "Eiland",
+        "projectPath": "/Users/caglar/Projects/DesignPattern/Eiland/Eiland.csproj",
         "packagesPath": "/Users/caglar/.nuget/packages/",
-        "outputPath": "/Users/caglar/Projects/DesignPattern/Garage/obj/",
+        "outputPath": "/Users/caglar/Projects/DesignPattern/Eiland/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/caglar/.nuget/NuGet/NuGet.Config"
