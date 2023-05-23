@@ -4,11 +4,13 @@ using Eiland;
 
 
 
+EiLand eiland = new EiLand();
+Vulkaan vulkaan = new Vulkaan();
+vulkaan.BarstUit += eiland.Vulkaanuitbarsting;
 
 
-string[] regels = File.ReadAllLines(@"\inwoners.rtf");
+string[] regels = File.ReadAllLines("inwoners.rtf");
 
-//var eiland  = new EiLand 
 
 
 foreach (string regel in regels)
@@ -16,17 +18,19 @@ foreach (string regel in regels)
     char soort = regel[0];
     string naam = regel.Substring(1);
 
-    Inwoner inwoner = InwonerFactory.MaakInwoner(soort, naam);
+    Inwoner inwoner = InwonerFactory.GetUniekeInstantie.MaakInwoner(soort, naam);
+
 
     if (inwoner != null)
     {
         EiLand.GetuniekeInstantie.ToevoegInwoner(inwoner);
+        EiLand.GetuniekeInstantie.Attach(inwoner);
 
 
     }
 }
 
 // Vulkaanuitbarsting
-EiLand.GetuniekeInstantie.Vulkaanuitbarsting();
+vulkaan.StartUitbarsting();
 
-Console.ReadLine();
+    Console.ReadLine();

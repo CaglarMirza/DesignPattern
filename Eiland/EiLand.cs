@@ -4,14 +4,15 @@ namespace Eiland
 	public class EiLand
 	{
         private static EiLand? uniekeInstantie;
-		private List<Inwoner> inwoners;
+		
 
         private static readonly Lazy<EiLand> lazy = new Lazy<EiLand>(() => new EiLand());
 
 
         private List<IObserver> observers = new List<IObserver>();
+        private List<Inwoner> inwoners = new();
 
-        
+
         public void Attach(IObserver observer)
         {
             Console.WriteLine("Subject: Attached an observer.");
@@ -46,6 +47,9 @@ namespace Eiland
         public void ToevoegInwoner(Inwoner inwoner)
         {
             inwoners.Add(inwoner);
+            observers.Add(inwoner);
+            
+            
         }
 
         public void Vulkaanuitbarsting()

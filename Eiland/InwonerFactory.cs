@@ -3,11 +3,25 @@ namespace Eiland
 {
 	public class InwonerFactory
 	{
+        private static InwonerFactory? uniekeInstantie;
+
+        private static readonly Lazy<InwonerFactory> lazy = new Lazy<InwonerFactory>(() => new InwonerFactory());
+
+        public static InwonerFactory GetUniekeInstantie
+        {
+            get
+            {
+                //if (instance == null)
+                //    instance = new InwonerFactory();
+                //return instance;
+                return lazy.Value;
+            }
+        }
 
 
 
 
-        public static Inwoner MaakInwoner(char soort, string naam)
+        public  Inwoner MaakInwoner(char soort, string naam)
         {
             Inwoner inwoner = null;
 
@@ -23,10 +37,10 @@ namespace Eiland
                     Console.WriteLine("Onbekend soort inwoner: " + soort);
                     break;
             }
-            //string locatie = @"\data\";
-            using var schrijvenInwoner = new StreamWriter(@"\data\inwoners.txt");
+            ////string locatie = @"\data\";
+            //using var schrijvenInwoner = new StreamWriter(@"\data\inwoners.txt");
 
-            schrijvenInwoner.WriteLine($"{soort} {naam}");
+            //schrijvenInwoner.WriteLine($"{soort} {naam}");
 
 
 
